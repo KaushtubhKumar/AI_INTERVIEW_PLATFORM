@@ -153,3 +153,7 @@ export async function isAuthenticated() {
     return !!user;
     
 }
+
+export async function getInterviewByUser(params:type) {
+    
+}
